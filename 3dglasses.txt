@@ -51,7 +51,7 @@
 		["UniqueID"] = "d524cda9e48e8bcc98f72af7404cd234343b32a32d8f4e97030693f033839525",
 		["Notes"] = "",
 		["Hide"] = false,
-		["Name"] = "my outfit",
+		["Name"] = "3D Glasses RMF",
 		["TargetEntityUID"] = "",
 		["EditorExpand"] = true,
 		["OwnerName"] = "self",
